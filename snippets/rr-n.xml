@@ -27,7 +27,7 @@
 
   <project path="android" name="platform_manifest" remote="rr" />
   <project path="vendor/cmsdk" name="cm_platform_sdk" remote="rr" />
-  <project path="vendor/cm" name="ComicoTeam/RR_n7100_android_vendor_resurrected" remote="github" revision="nougat" />
+  <project path="vendor/cm" name="ComicoTeam/RR_N7100_android_vendor_resurrected" remote="github" revision="nougat"/>
   <project path="packages/services/Telephony" name="RR7_android_packages_services_Telephony" remote="non" />
   <project path="packages/apps/ResurrectedOTA" name="packages_apps_ResurrectedOTA" remote="rr" />
   <project path="packages/apps/ResurrectedStats" name="packages_apps_ResurrectedStats" remote="rr" />
@@ -47,7 +47,7 @@
   <project path="packages/apps/LockClock" name="RR7_android_packages_apps_LockClock" remote="non" />
   <project path="packages/apps/CMParts" name="RR7_android_packages_apps_CMParts" remote="non"/>
   <project path="frameworks/av" name="RR7_android_frameworks_av" remote="non" revision="RR7" />
-  <project path="frameworks/base" name="ComicoTeam/RR_n7100_android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="ComicoTeam/RR_N7100_android_frameworks_base" remote="github" revision="nougat"/>
   <project path="packages/apps/Settings" name="RR7_Resurrected_packages_apps_Settings" remote="non" />
   <project path="external/skia" name="RR7_android_external_skia" remote="non"/>
   <project path="art" name="art" remote="rr" />
